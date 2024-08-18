@@ -1,0 +1,12 @@
+# Ignorar diretórios de dados e modelos
+data/
+models/
+
+# Ignorar arquivos Python compilados
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar arquivos de ambiente
+.env
+venv/
